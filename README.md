@@ -6,9 +6,10 @@ delivering high-quality, clean, scalable, and maintainable code.</p>
 
 <h3>☰  Skills </h3>
 
-<p> Backend:  Node.js Express.js </p>
-<p> Frontend:  React Next.js Angular </p>
-<p> Database:  MongoDB MySQL </p>
-<p> Design: Figma </p>
+<p> Frontend:  React, Next.js, Angular </p>
+<p> UI/UX Design: Figma </p>
+<p> Backend:  Node.js, Express.js </p>
+<p> Database:  Postgresql, MongoDB </p>
+
 
  📫 You can reach me at **anorouzi.work@gmail.com**
